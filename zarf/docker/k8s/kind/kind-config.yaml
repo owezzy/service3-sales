@@ -1,3 +1,2 @@
 kind: Cluster
-apiVesrion: kind.x-k8s.io/v1alpha4
-
+apiVersion: kind.x-k8s.io/v1alpha4gct

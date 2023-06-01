@@ -21,7 +21,7 @@ service3-sales:
 		--build-arg BUILD_DATE=`date -u +"%Y-%m-%dT%H:%M:%SZ"` \
 		.
 
-KIND_CLUSTER := owezzy-starter-cluster
+KIND_CLUSTER := ardan-starter-cluster
 
 kind-up:
 	kind create cluster \
